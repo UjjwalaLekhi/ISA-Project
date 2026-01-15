@@ -1,0 +1,1 @@
+This project was undertaken during an online internship conducted by the Indian Space Academy and focuses on estimating the dynamical mass of a galaxy cluster using observational data and astrophysical principles.
